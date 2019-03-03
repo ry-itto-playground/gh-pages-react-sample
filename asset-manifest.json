@@ -1,14 +1,14 @@
 {
-  "main.css": "/ghpages-react-sample/static/css/main.9368cd42.chunk.css",
-  "main.js": "/ghpages-react-sample/static/js/main.23845408.chunk.js",
-  "main.js.map": "/ghpages-react-sample/static/js/main.23845408.chunk.js.map",
-  "runtime~main.js": "/ghpages-react-sample/static/js/runtime~main.e5d8a101.js",
-  "runtime~main.js.map": "/ghpages-react-sample/static/js/runtime~main.e5d8a101.js.map",
-  "static/js/2.5bf9b2cd.chunk.js": "/ghpages-react-sample/static/js/2.5bf9b2cd.chunk.js",
-  "static/js/2.5bf9b2cd.chunk.js.map": "/ghpages-react-sample/static/js/2.5bf9b2cd.chunk.js.map",
-  "index.html": "/ghpages-react-sample/index.html",
-  "precache-manifest.b375beccab282276f316ae2902033655.js": "/ghpages-react-sample/precache-manifest.b375beccab282276f316ae2902033655.js",
-  "service-worker.js": "/ghpages-react-sample/service-worker.js",
-  "static/css/main.9368cd42.chunk.css.map": "/ghpages-react-sample/static/css/main.9368cd42.chunk.css.map",
-  "static/media/logo.svg": "/ghpages-react-sample/static/media/logo.5d5d9eef.svg"
+  "main.css": "/gh-pages-react-sample/static/css/main.9368cd42.chunk.css",
+  "main.js": "/gh-pages-react-sample/static/js/main.08fed158.chunk.js",
+  "main.js.map": "/gh-pages-react-sample/static/js/main.08fed158.chunk.js.map",
+  "runtime~main.js": "/gh-pages-react-sample/static/js/runtime~main.4dac00d6.js",
+  "runtime~main.js.map": "/gh-pages-react-sample/static/js/runtime~main.4dac00d6.js.map",
+  "static/js/2.5bf9b2cd.chunk.js": "/gh-pages-react-sample/static/js/2.5bf9b2cd.chunk.js",
+  "static/js/2.5bf9b2cd.chunk.js.map": "/gh-pages-react-sample/static/js/2.5bf9b2cd.chunk.js.map",
+  "index.html": "/gh-pages-react-sample/index.html",
+  "precache-manifest.dafd665993f2bc3e77889e62b650fbb8.js": "/gh-pages-react-sample/precache-manifest.dafd665993f2bc3e77889e62b650fbb8.js",
+  "service-worker.js": "/gh-pages-react-sample/service-worker.js",
+  "static/css/main.9368cd42.chunk.css.map": "/gh-pages-react-sample/static/css/main.9368cd42.chunk.css.map",
+  "static/media/logo.svg": "/gh-pages-react-sample/static/media/logo.5d5d9eef.svg"
 }
